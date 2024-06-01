@@ -3,7 +3,7 @@
 AImportant는 AI 분석을 통해 수능 영어 문제와 고등학교 모의고사 영어 문제를 풀고 분석하며, 추천까지 제공하는 Next.js 프로젝트입니다.
 
 ## 발표자료
-[15팀_항해 해커톤 발표자료_0601_최종.pdf](https://github.com/user-attachments/files/15520534/15._._0601_.pdf)
+[15팀_항해 해커톤 발표자료_0601_최종 (1).pdf](https://github.com/user-attachments/files/15520568/15._._0601_.1.pdf)
 
 ## 목차
 
